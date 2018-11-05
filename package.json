@@ -7,6 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "socket.io-client": "^2.1.1",
     "vue": "^2.5.17",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^7.0.0"
@@ -15,6 +16,7 @@
     "@vue/cli-plugin-babel": "^3.0.4",
     "@vue/cli-plugin-typescript": "^3.0.4",
     "@vue/cli-service": "^3.0.4",
+    "laravel-echo": "yoyo930021/echo#release",
     "typescript": "^3.0.0",
     "vue-template-compiler": "^2.5.17"
   }
