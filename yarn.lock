@@ -4185,7 +4185,10 @@ kind-of@^6.0.0, kind-of@^6.0.2:
 
 laravel-echo@yoyo930021/echo#release:
   version "1.4.0"
-  resolved "https://codeload.github.com/yoyo930021/echo/tar.gz/b4e14e747efe3b1b80dc32f5aaac81587f1097fc"
+  resolved "https://codeload.github.com/yoyo930021/echo/tar.gz/01f81cadc664bbe16ec20b29c94f4178260e4008"
+  dependencies:
+    "@types/pusher-js" "^4.2.0"
+    "@types/socket.io-client" "^1.4.32"
 
 launch-editor-middleware@^2.2.1:
   version "2.2.1"
